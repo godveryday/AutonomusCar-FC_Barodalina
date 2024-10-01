@@ -1,3 +1,5 @@
+# 개발 초기 코드
+
 #!/usr/bin/env python
 # BEGIN ALL
 import rospy
