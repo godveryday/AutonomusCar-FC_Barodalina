@@ -17,9 +17,10 @@
 
 OpenCV를 활용, HSV는 위 값을 기반으로 수정함, OpenCV와 ROS사이 연결은 위와 같음 
 
-```
-ROS와 OpenCV와의 Interface package인 cv_bridge를 제공
+ROS와 OpenCV와의 Interface package인 cv_bridge를 
+
 이를 통해 ROS에서 영상 데이터를 OpenCV format으로 변환해 처리가능
+
 이후 처리 된 데이터를 ROS 영상으로 변환하고 토픽을 게시하여 노드 간 영상 전송을 실현
-```
+
 #### 당시 주행과 동시에 실시간 rqt를 확인할 수 없어 개발에 차질 있었음
