@@ -1,5 +1,11 @@
 # FC_바로달리나 
 
+#### 참고
+
+OpenCV : https://github.com/godveryday/OpenCV.git
+
+ROS : https://github.com/godveryday/ROS.git
+
 ### 2023 DIFA 자율주행 경진대회 정리
 ---
 #### 차량 스펙
